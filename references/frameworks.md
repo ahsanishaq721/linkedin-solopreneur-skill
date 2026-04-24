@@ -156,13 +156,13 @@ Level 2: Mid-cost productized service ($500-2,500) -> niche down, reduce scope, 
 Level 3: High-cost retainer ($3,000+) -> micro-niche, premium experience, few clients
 FITI cycle: Feedback -> Iteration -> Testimonials -> Increase prices. Repeat.
 Trust Tripwire: First digital product priced at $50-$150. Deliver so much value they feel guilty paying that little. This builds a buyer base guaranteed to purchase the next offer.
-PPP Pricing: Offer 80% discounts for buyers in lower-income countries. This is smart marketing -- 10,000 more customers generating referrals and word of mouth.
+PPP Pricing: Offer 80% discounts for buyers in lower-income countries. Smart marketing -- more customers, more referrals, more word of mouth.
 
 ## Framework 18: ESAD Framework (Time Management)
 Value your time at $1,000/hour. Run every task through:
 E -- ELIMINATE: Is this in my top 20% highest-value activities? If not -- cut it entirely.
 S -- SIMPLIFY:  Can this be done in fewer steps without losing quality?
-A -- AUTOMATE:  Can any tool, software, or AI handle this?
+A -- AUTOMATE:  Can any tool or software handle this?
 D -- DELEGATE:  Can a virtual assistant handle what remains? (~20 hrs/week of delegation is ideal)
 Target: Spend your own time only on things that require your unique expertise.
 
@@ -174,7 +174,7 @@ Newsletter          | ConvertKit or Beehiiv
 LinkedIn Analytics  | Shield App, Taplio
 Twitter Publishing  | Tweet Hunter, HypeFury
 Idea Bank           | Notion
-Automation          | Zapier, Make, or n8n
+Automation          | Zapier or Make
 Payments            | Stripe + Gumroad
 Scheduling          | Calendly
 Community           | Skool or Outseta
