@@ -3,7 +3,7 @@
 > A Claude skill that turns you into a LinkedIn content machine — for any niche, any profession, any industry.
 > Powered by **Justin Welsh's Niche of One** philosophy and 21 proven LinkedIn frameworks.
 
-Works for: consultants, coaches, developers, designers, marketers, founders, lawyers, doctors, recruiters, freelancers, and anyone building a personal brand on LinkedIn.
+Works for: consultants, coaches, developers, designers, marketers, founders, lawyers, doctors, recruiters, freelancers, AI agency owners, solopreneurs, and anyone building a personal brand on LinkedIn.
 
 ---
 
@@ -139,9 +139,9 @@ Claude will write a 2-4 sentence spiky, specific comment — never hollow, never
 Write connection request, first DM, and follow-up DM for any person.
 
 ```
-/outreach John Smith, VP of Sales at Acme — want to start a conversation about consulting
-/outreach Sarah Lee, career coach with 50K followers — exploring a potential collab
-/outreach the founder of a SaaS startup I admire — no specific goal yet, just want to connect
+/outreach [Name], [their role] at [company] — [your goal]
+/outreach a career coach with 50K followers — exploring a potential collab
+/outreach the founder of a startup I admire — no specific goal, just want to connect
 ```
 
 Claude delivers three messages:
@@ -248,9 +248,3 @@ linkedin-solopreneur-skill/
 ```
 
 When you install the skill, Claude gets all three files. It loads `frameworks.md` when you ask about strategy and `templates.md` when executing content commands.
-
----
-
-## Built by
-
-**Ahsan Ishaq** — [ahsomatic.com](https://ahsomatic.com)
