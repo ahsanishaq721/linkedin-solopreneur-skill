@@ -188,7 +188,7 @@ Level 3: High-cost retainer ($3,000+) -> micro-niche, premium delivery
 FITI: Feedback -> Iteration -> Testimonials -> Increase (prices).
 
 Trust Tripwire: First digital product at $50-$150. Deliver 100x perceived value. Build a customer base guaranteed to buy the next offer.
-PPP Pricing: 80% discount for buyers in lower-income countries (Pakistan, India, Nigeria, Mexico, etc.) -- not charity, it's 10,000 more customers generating referrals.
+PPP Pricing: 80% discount for buyers in lower-income countries -- not charity, it's 10,000 more customers generating referrals.
 
 ### 18. ESAD FRAMEWORK
 Value your time at $1,000/hour. Run every task through:
@@ -205,7 +205,7 @@ D -- DELEGATE:  Can a VA handle what's left? (~20 hrs/week)
 | LinkedIn Analytics | Shield App, Taplio |
 | Twitter/X Publishing | Tweet Hunter, HypeFury |
 | Idea Bank | Notion |
-| Automation | Zapier / Make / n8n |
+| Automation | Zapier or Make |
 | Payments | Stripe + Gumroad |
 | Scheduling | Calendly |
 | Community | Skool or Outseta |
