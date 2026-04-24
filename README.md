@@ -1,5 +1,7 @@
 # linkedin-solopreneur-skill
 
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
 > A Claude skill that turns you into a LinkedIn content machine — for any niche, any profession, any industry.
 > Powered by **Justin Welsh's Niche of One** philosophy and 21 proven LinkedIn frameworks.
 
@@ -242,9 +244,20 @@ npx skills remove linkedin-solopreneur-skill -g
 ```
 linkedin-solopreneur-skill/
 ├── SKILL.md                    # Main skill file — all identity, frameworks, and commands
+├── LICENSE                     # MIT License
 └── references/
     ├── frameworks.md           # All 21 Justin Welsh strategy frameworks in full detail
     └── templates.md            # All post, outreach, newsletter, and profile templates
 ```
 
 When you install the skill, Claude gets all three files. It loads `frameworks.md` when you ask about strategy and `templates.md` when executing content commands.
+
+---
+
+## License
+
+MIT © [Ahsan Ishaq](https://github.com/ahsanishaq721)
+
+## Built by
+
+**Ahsan Ishaq**
